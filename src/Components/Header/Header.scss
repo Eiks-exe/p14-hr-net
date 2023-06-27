@@ -1,7 +1,28 @@
 nav {
+    position: absolute;
+    top: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
     box-shadow: 1px 1px 15px;
     width: 100%;
+    background-color: #426A5A;
+    z-index: 10;
+}
+
+.nav-logo-link{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding-left: 10px;
+    :visited{
+        color: inherit;
+    }
+}
+
+.logo-container{
+    display: flex;
+    flex-direction: row;
+    font-weight: 700;
+    font-size: 32px;
+    padding: 20px  0 20px 10px;
 }

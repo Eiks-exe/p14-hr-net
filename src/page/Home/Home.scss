@@ -5,6 +5,10 @@
     justify-content: center;
     width: 40%;
     margin: auto;
+    background-color: #d8c0a7;
+    padding: 100px 10px 20px 10px;
+    z-index: 0;
+    border-radius: 1%;
 }
 @media (max-width: 768px) {
     .home-container {
@@ -64,4 +68,9 @@ form {
             background-color: #2481d2;
         }
     }
+}
+
+.modal-component{
+    margin: 15% 0 0 43%;
+    background-color: rgba($color: #000000, $alpha: 0)!important;
 }
