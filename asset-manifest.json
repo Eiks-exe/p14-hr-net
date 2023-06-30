@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/p14-hr-net/static/css/main.00bb74a7.css",
+    "main.js": "/p14-hr-net/static/js/main.e069116d.js",
+    "static/js/787.97e405eb.chunk.js": "/p14-hr-net/static/js/787.97e405eb.chunk.js",
+    "index.html": "/p14-hr-net/index.html",
+    "main.00bb74a7.css.map": "/p14-hr-net/static/css/main.00bb74a7.css.map",
+    "main.e069116d.js.map": "/p14-hr-net/static/js/main.e069116d.js.map",
+    "787.97e405eb.chunk.js.map": "/p14-hr-net/static/js/787.97e405eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00bb74a7.css",
+    "static/js/main.e069116d.js"
+  ]
+}
